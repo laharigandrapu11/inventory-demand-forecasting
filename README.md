@@ -1,9 +1,3 @@
-Always show details
-
-Copy
-# Save a README.md file for the "Intelligent System for Inventory Demand Forecasting" project
-
-readme_inventory_content = """
 # Intelligent System for Inventory Demand Forecasting
 
 This repository contains code, models, and documentation for a project that builds an intelligent demand forecasting system for inventory management. The system is designed to support dining hall operations at Indiana University by minimizing food waste and improving stock prediction accuracy.
